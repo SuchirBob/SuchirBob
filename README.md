@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I'm Suchir Bobbili 👋</h1>
+<h1 align="center">Hi, I'm Suchir Bobbili </h1>
 <h3 align="center">CS Undergrad | Cybersecurity • Networking • Ethical Hacking</h3>
 
 <p align="center">
-  📧 <a href="mailto:suchirb13@gmail.com">suchirb13@gmail.com</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" valign="middle">
+  <a href="mailto:suchirb13@gmail.com">
+    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="20" alt="Email">
+  </a>
+  <a href="mailto:suchirb13@gmail.com">suchirb13@gmail.com</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SuchirBob">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub">
+  </a>
   <a href="https://github.com/SuchirBob">SuchirBob</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   📍 Hyderabad, India
 </p>
 
@@ -58,14 +63,5 @@ Motivated Computer Science undergraduate with a strong interest in **Cybersecuri
 
 ---
 
-###  Let's Connect
 
-<p>
-  📧 <a href="mailto:suchirb13@gmail.com">suchirb13@gmail.com</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" valign="middle">
-  <a href="https://github.com/SuchirBob">SuchirBob</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  📍 Hyderabad, India
-</p>
 <p align="center"><i>"Security isn't a feature, it's a mindset."</i></p>
