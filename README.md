@@ -8,7 +8,7 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
 Motivated Computer Science undergraduate with a strong interest in **Cybersecurity, Networking, and Ethical Hacking**. I build hands-on Python-based security tools and enjoy digging into how attacks work so I can get better at defending against them.
 
