@@ -64,4 +64,4 @@ Motivated Computer Science undergraduate with a strong interest in **Cybersecuri
 ---
 
 
-<p align="center"><i>"Security isn't a feature, it's a mindset."</i></p>
+![With Great Power, Comes Great Responsibility!](https://i.imgur.com/kJm7aUG.png)
