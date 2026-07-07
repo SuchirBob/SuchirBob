@@ -57,7 +57,7 @@ Motivated Computer Science undergraduate with a strong interest in **Cybersecuri
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:codeme1006@gmail.com"><img src="https://img.shields.io/badge/Gmail-codeme1006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:suchirb13@gmail.com"><img src="https://img.shields.io/badge/Gmail-suchirb13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SuchirBob"><img src="https://img.shields.io/badge/GitHub-SuchirBob-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
