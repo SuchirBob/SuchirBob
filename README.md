@@ -12,7 +12,7 @@
   </a>
   <a href="https://github.com/SuchirBob">SuchirBob</a>
   &nbsp;&nbsp;&nbsp;
-  📍 Hyderabad, India
+   Hyderabad, India
 </p>
 
 ---
@@ -29,7 +29,7 @@ Motivated Computer Science undergraduate with a strong interest in **Cybersecuri
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 **Languages:** Python · Java · JavaScript · SQL · Bash
 
